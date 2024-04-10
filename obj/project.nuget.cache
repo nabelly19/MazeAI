@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5+wJH3424NzEGAHjc182+PBnVK3F4Tpw5A7vQbCwB9/Rp7+jxnxEGjKAO9hGSz6Qq8xXSecfiT9ZQnmHDyKhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\disrct\\Desktop\\Desafio 2 - MazeAI\\MazeAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\disrct\\.nuget\\packages\\pamella\\1.7.0\\pamella.1.7.0.nupkg.sha512",
+    "C:\\Users\\disrct\\.nuget\\packages\\statelylib\\1.3.0\\statelylib.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
