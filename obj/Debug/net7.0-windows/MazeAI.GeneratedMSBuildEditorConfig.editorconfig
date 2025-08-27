@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MazeAI
-build_property.ProjectDir = C:\Users\disrct\Desktop\Desafio 2 - MazeAI\
+build_property.ProjectDir = C:\Users\moa5ct\Desktop\MazeAI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

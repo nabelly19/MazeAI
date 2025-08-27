@@ -34,3 +34,22 @@ C:\Users\disrct\Desktop\Desafio 2 - MazeAI\obj\Debug\net7.0-windows\refint\MazeA
 C:\Users\disrct\Desktop\Desafio 2 - MazeAI\obj\Debug\net7.0-windows\MazeAI.pdb
 C:\Users\disrct\Desktop\Desafio 2 - MazeAI\obj\Debug\net7.0-windows\MazeAI.genruntimeconfig.cache
 C:\Users\disrct\Desktop\Desafio 2 - MazeAI\obj\Debug\net7.0-windows\ref\MazeAI.dll
+C:\Users\moa5ct\Desktop\MazeAI\bin\Debug\net7.0-windows\MazeAI.exe
+C:\Users\moa5ct\Desktop\MazeAI\bin\Debug\net7.0-windows\MazeAI.deps.json
+C:\Users\moa5ct\Desktop\MazeAI\bin\Debug\net7.0-windows\MazeAI.runtimeconfig.json
+C:\Users\moa5ct\Desktop\MazeAI\bin\Debug\net7.0-windows\MazeAI.dll
+C:\Users\moa5ct\Desktop\MazeAI\bin\Debug\net7.0-windows\MazeAI.pdb
+C:\Users\moa5ct\Desktop\MazeAI\bin\Debug\net7.0-windows\pamella.dll
+C:\Users\moa5ct\Desktop\MazeAI\bin\Debug\net7.0-windows\Stately.dll
+C:\Users\moa5ct\Desktop\MazeAI\obj\Debug\net7.0-windows\MazeAI.csproj.AssemblyReference.cache
+C:\Users\moa5ct\Desktop\MazeAI\obj\Debug\net7.0-windows\MazeAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moa5ct\Desktop\MazeAI\obj\Debug\net7.0-windows\MazeAI.AssemblyInfoInputs.cache
+C:\Users\moa5ct\Desktop\MazeAI\obj\Debug\net7.0-windows\MazeAI.AssemblyInfo.cs
+C:\Users\moa5ct\Desktop\MazeAI\obj\Debug\net7.0-windows\MazeAI.csproj.CoreCompileInputs.cache
+C:\Users\moa5ct\Desktop\MazeAI\obj\Debug\net7.0-windows\MazeAI.sourcelink.json
+C:\Users\moa5ct\Desktop\MazeAI\obj\Debug\net7.0-windows\MazeAI.csproj.Up2Date
+C:\Users\moa5ct\Desktop\MazeAI\obj\Debug\net7.0-windows\MazeAI.dll
+C:\Users\moa5ct\Desktop\MazeAI\obj\Debug\net7.0-windows\refint\MazeAI.dll
+C:\Users\moa5ct\Desktop\MazeAI\obj\Debug\net7.0-windows\MazeAI.pdb
+C:\Users\moa5ct\Desktop\MazeAI\obj\Debug\net7.0-windows\MazeAI.genruntimeconfig.cache
+C:\Users\moa5ct\Desktop\MazeAI\obj\Debug\net7.0-windows\ref\MazeAI.dll

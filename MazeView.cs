@@ -11,7 +11,7 @@ public class MazeView : Pamella.View
     private          bool   _update      = false;
     private          bool   _solve       = false;
     private readonly Solver _solver      = new Solver();
-    private          Maze   Maze { get; set; } = null!;
+    public          Maze   Maze { get; set; } = null!;
 
     protected override void OnStart(IGraphics g)
     {
