@@ -1,3 +1,5 @@
+using Microsoft.VisualBasic.ApplicationServices;
+
 namespace MazeAI;
 
 public class Solver
@@ -43,9 +45,9 @@ public class Solver
         }
     }
 
-    private static bool DFS(Space space, Space goal)
+    private static bool DFS(Space start, Space goal)
     {
-        var crrSpace = space;
+        var crrSpace = start;
         var spaceStack = new Stack<Space>();
         crrSpace.Visited = true;
 
@@ -86,15 +88,14 @@ public class Solver
         {
             solution.IsSolution = true;
         }
+        start.IsSolution = true;
         goal.IsSolution = true;
         return true;
     }
 
     private static bool BFS(Space start, Space goal)
     {
-        var dist = new Dictionary<Space, float>();
         var prev = new Dictionary<Space, Space>();
-
         var queue = new Queue<Space>();
         queue.Enqueue(start);
 
@@ -109,14 +110,26 @@ public class Solver
 
             if (currSpace == goal)
             {
-                currSpace.IsSolution = true;
+                var attempt = goal;
+                while(attempt != start )
+                {
+                    attempt.IsSolution = true;
+                    if(!prev.ContainsKey(attempt))
+                        return false;
+                    attempt = prev[attempt];    
+                }
+                start.IsSolution = true;
                 return true;
             }
 
             foreach (var solSpace in currSpace.Neighbours())
             {
-                if (solSpace is not null)
+                if (solSpace is not null && !solSpace.Visited)
+                {
+                    if(!prev.ContainsKey(solSpace))
+                        prev[solSpace] = currSpace;
                     queue.Enqueue(solSpace);
+                }
             }
         }
         return false;
